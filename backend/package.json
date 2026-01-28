@@ -1,0 +1,16 @@
+{
+  "name": "stud-task-manager",
+  "version": "1.0.0",
+  "description": "\"A Programming Task provided by Zemitrics Technologies for round 2 selection\"",
+  "license": "ISC",
+  "author": "\"Piyush Gupta\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
