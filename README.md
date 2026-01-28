@@ -105,3 +105,6 @@ Storage: Local JSON file
 🏁 Final Notes
 
 This project runs fully offline, requires minimal setup, and demonstrates core full-stack concepts such as API design, frontend-backend communication, state management, and persistence.
+
+
+....
