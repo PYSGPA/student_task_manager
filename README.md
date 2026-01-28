@@ -25,6 +25,13 @@ Open your browser and visit:
 
 http://localhost:3000
 
+## 📸 Output Screenshots
+
+### Student Task Manager Web App
+
+![Student Task Manager Screenshot](./screenshots/website1.png)
+![Student Task Manager Screenshot](./screenshots/website2.png)
+![Student Task Manager Screenshot](./screenshots/website3.png)
 
 No additional setup is required.
 
@@ -94,14 +101,6 @@ Frontend: HTML, Tailwind CSS, JavaScript
 Backend: Node.js, Express
 
 Storage: Local JSON file
-
-## 📸 Output Screenshots
-
-### Student Task Manager Web App
-
-![Student Task Manager Screenshot](./screenshots/website1.png)
-![Student Task Manager Screenshot](./screenshots/website2.png)
-![Student Task Manager Screenshot](./screenshots/website3.png)
 
 🏁 Final Notes
 
